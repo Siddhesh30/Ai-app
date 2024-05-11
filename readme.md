@@ -44,7 +44,7 @@ Follow these steps to set up the project locally on your machine.
 
 ```bash
 git clone https://github.com/Siddhesh30/ai-app.git
-cd project_ai_summarizer
+cd ai-app
 ```
 
 **Installation**
